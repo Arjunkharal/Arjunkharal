@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Arjunkharal
-- 👀 I’m interested in manything
-- 🌱 I’m currently learning I don't know
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Namaste  
+I am Arjun kharal, currently a student and I am  passionate about software development and computer working mechanism. Currently I am learning python and C.   
+- 👀 I’m interested in learning code and how machine works . 
+- 📫 you can contact me on iamarjunkharal@gmail.com 
+ 
+
 
 <!---
 Arjunkharal/Arjunkharal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
